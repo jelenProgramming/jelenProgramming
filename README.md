@@ -1,6 +1,6 @@
 # David Jelen
 
-CS student at FERI Maribor, Slovenia. I build full-stack web apps and deploy them.
+Full-Stack Web Developer | CS Student @ FERI Maribor. I build full-stack web apps and deploy them.
 
 **Stack:** React · Laravel · PHP · MySQL · REST APIs · JavaScript
 
