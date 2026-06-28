@@ -2,7 +2,7 @@
 
 Full-Stack Web Developer | CS Student @ FERI Maribor. I build full-stack web apps and deploy them.
 
-**Stack:** React · Laravel · PHP · MySQL · REST APIs · JavaScript
+**Stack:** React · Laravel · PHP · MySQL · JavaScript · REST APIs · Git
 
 ---
 
