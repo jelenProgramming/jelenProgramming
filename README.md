@@ -2,13 +2,15 @@
 
 CS student at FERI Maribor, Slovenia. I build full-stack web apps and deploy them.
 
-**Stack:** React · Laravel · PHP · MySQL · REST APIs · JavaScript
+**Stack:** React · TypeScript · Laravel · PHP · MySQL · REST APIs · JavaScript
 
 ---
 
 ## Projects
 
 **[CS Courses](https://cs-courses.vercel.app)** — 97-topic interactive reference for FERI first-year CS. Algorithms, data structures, calculus, discrete math, ARA. 51 live visualizers, bilingual EN/DE, KaTeX math rendering. React + Vite.
+
+**[SQL Playground](https://sql-playground-weld.vercel.app)** — Run real SQL in the browser: SQLite compiled to WebAssembly, live schema explorer, 12 guided exercises checked against actual result sets. TypeScript, 58 Vitest unit tests.
 
 **[Link Shortener](https://linkshort-web-six.vercel.app)** — Create short URLs with per-link analytics: clicks by day, top referrers, recent visits. React + Laravel REST API.
 
